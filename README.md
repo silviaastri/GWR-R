@@ -1,0 +1,3 @@
+# Goegraphically Weighted Regression (GWR)
+
+Geographically Weighted Regression (GWR) is one of several spatial regression techniques used in geography and other disciplines. The estimation used in the GWR method by providing different weighting for each location where the data is collected so that geographic uniqueness can be captured. In forming the weighting matrix, the diagonal element of the matrix is filled with the calculated value of the  fixed bandwidth kernel or adaptive bandwidth kernel where the weighting formed using the kernel function in this study is the Gaussian and Bisquare distance functions.
